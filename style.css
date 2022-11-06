@@ -1,4 +1,4 @@
-body{
+body {
   background-color: bisque;
 }
 h1 {
@@ -11,7 +11,7 @@ h1 {
   display: flex;
   justify-content: center;
   font-size: 18px;
-  }
+}
 a {
   margin: 20px;
 }
