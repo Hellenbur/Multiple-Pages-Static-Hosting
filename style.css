@@ -11,13 +11,14 @@ h1 {
   display: flex;
   justify-content: center;
   font-size: 18px;
+  color:green;
 }
 a {
   margin: 20px;
   }
 img {
-  max-width: 600px;
-  border-radius: 6px;
+  max-width: 90%;
+  border-radius: 8px;
   display: block;
   margin: auto;
   padding-bottom: 30px;
